@@ -1,0 +1,76 @@
+# If this repo later moves to a project/org account, update site_url / repo_url /
+# repo_name below to match, and re-check GitHub Pages settings. See README.md for
+# the move checklist.
+site_name: EarthBank User Guide
+site_description: User documentation for the AuScope EarthBank platform
+site_url: https://ware-bryant.github.io/earthbank-usermanual/
+repo_url: https://github.com/ware-bryant/earthbank-usermanual
+repo_name: earthbank-usermanual
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Overview: 00_getting-started/README.md
+      - Registration & accounts: 00_getting-started/registration-and-accounts.md
+      - Interface overview: 00_getting-started/interface-overview.md
+  - Finding & Viewing Data:
+      - Overview: 01_finding-and-viewing-data/README.md
+      - Map window: 01_finding-and-viewing-data/map-window.md
+      - Data window: 01_finding-and-viewing-data/data-window.md
+      - Filtering & downloading: 01_finding-and-viewing-data/filtering-and-downloading.md
+  - Contributing Data:
+      - Overview: 02_contributing-data/README.md
+      - Data packages: 02_contributing-data/data-packages.md
+      - Sample metadata: 02_contributing-data/sample-metadata.md
+      - IGSN minting: 02_contributing-data/igsn-minting.md
+      - DOI minting: 02_contributing-data/doi-minting.md
+      - Geochemistry data: 02_contributing-data/geochemistry-data.md
+      - U-Pb geochronology data: 02_contributing-data/upb-geochronology-data.md
+      - (U-Th)/He data: 02_contributing-data/uth-he-data.md
+      - Fission track data: 02_contributing-data/fission-track-data.md
+      - Thermal history data: 02_contributing-data/thermal-history-data.md
+  - Visualising Data:
+      - Overview: 03_visualising-data/README.md
+      - Geochemistry: 03_visualising-data/geochemistry.md
+      - U-Pb geochronology: 03_visualising-data/upb-geochronology.md
+      - (U-Th)/He thermochronology: 03_visualising-data/uth-he-thermochronology.md
+      - Fission track: 03_visualising-data/fission-track.md
+  - API Access: 04_api-access/README.md
+  - References & Citation:
+      - Overview: 05_references-and-citation/README.md
+      - Finding data references: 05_references-and-citation/finding-data-references.md
+      - How to cite: 05_references-and-citation/how-to-cite.md
