@@ -15,6 +15,4 @@ EarthBank can generate a **Digital Object Identifier (DOI)** for a Data Package,
 1. Open **Data Packages**, click the overflow menu on the package, open the **DOI** tab.
 2. Click **Mint**, then save.
 
-[SCREENSHOT: DOI tab with Mint button]
-
 While you're there, you can also set **Distribution** (Public/Private) and **Workflow State** (In Progress/Finished/Frozen) from the Package Info tab — see [Data Packages](data-packages.md#data-privacy-control) and [Data Packages](data-packages.md#doi-workflow-state) for what each means.

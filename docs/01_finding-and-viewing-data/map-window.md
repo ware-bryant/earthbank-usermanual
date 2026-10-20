@@ -6,8 +6,6 @@ Click a sample locality to retrieve that sample's metadata and geochemical data.
 
 General Users can view, analyse, and synthesise sample metadata and geochemistry data from the Map window using the toolbar on the left-hand side:
 
-[SCREENSHOT: Map window with left-hand toolbar labelled]
-
 ## Toolbar tools
 
 **Data Packages** — view, hide, or add Data Packages to the map.
@@ -28,13 +26,9 @@ General Users can view, analyse, and synthesise sample metadata and geochemistry
 
 **Paleo Reconstructions** — view samples in a paleogeographic context. Activating this tool switches the Map window to a paleogeographic basemap with its own toolbar across the top. Available reconstruction models are chosen from a dropdown on the right of that toolbar; a scroll bar at the top toggles the reconstruction age. Some models support a paleotopography overlay; enabling it displays only samples with age information and filters out analytical data younger than the reconstruction age. An interactive present-day pop-up shows where the displayed samples actually sit today, for easy navigation regardless of reconstruction age. The Contour Data and Swath Profile tools, and all filters, continue to work while Paleo Reconstruction is active.
 
-[SCREENSHOT: Paleo Reconstruction toolbar with model dropdown and age scroll bar]
-
 **Contour Data** — produce a contour profile for a region, based on elevation or any available analytical data. Follow the prompts in the tool's pop-up window.
 
 **Swath Profile** — investigate the relationship between a selected attribute and topography along a transect. After activating the tool, set the profile width, then click two points on the map to define the transect. Drag the larger of the two green circles to adjust the angle. Click **Draw** in the pop-up to generate the profile (re-click Draw after any change to refresh it); adjust width with the +/- controls; choose the attribute to colour by (e.g. *Age*, *Fission Track Length*) from the dropdown at the bottom left of the profile window; export the profile as an SVG at any time.
-
-[SCREENSHOT: Swath Profile transect and resulting profile plot]
 
 **Map View / Global View** — toggle between a flat map and a 3D globe.
 
@@ -57,5 +51,3 @@ Several toolbar buttons open a filter pop-up on the right side of the Map window
 | Technique | Fission Track Thermochronology layer | Filter/colour by measurement technique |
 | Track Length | Fission Track Thermochronology layer | Colour by mean track length (MTL, µm); slider filters the range |
 | Track Length σ | Fission Track Thermochronology layer | Colour by 1σ standard deviation of MTL; slider filters unimodal vs. broad/bimodal distributions |
-
-[SCREENSHOT: example filter pop-up, e.g. Oxide filter with concentration sliders]

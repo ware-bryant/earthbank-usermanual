@@ -14,8 +14,6 @@ All data in EarthBank is uploaded in a structured, relational way so it can be q
 
 From here you can set package information, add team members, attach files/images, and mint a DOI ([DOI Minting](doi-minting.md)).
 
-[SCREENSHOT: Data Package property setup page, Package Info tab]
-
 ## Package information
 
 On the **Package Info** tab, set:
@@ -54,8 +52,6 @@ Also on the Package Info tab, the Data Contributor (and anyone added as a Superv
 ## Team members
 
 On the **Team** tab, add collaborators as Team Members so they can view and edit the Data Package — useful for shared research projects.
-
-[SCREENSHOT: Team tab, adding a collaborator]
 
 ## Attaching files
 

@@ -7,13 +7,9 @@ The EarthBank interface has two primary windows, tied together by the title bar 
 
 Account details are managed from the account menu (see [Registration & Accounts](registration-and-accounts.md)); platform help is available from the Help menu (below).
 
-[SCREENSHOT: title bar showing Map window / Data window tabs and account/help icons]
-
 ## Toolbar
 
 The top-left of the **Map window** has a toolbar for data exploration, visualisation, analysis, and synthesis. Toolbars and pop-up windows on the display can be expanded, collapsed to smaller buttons, or minimised.
-
-[SCREENSHOT: Map window toolbar, expanded state]
 
 ## Help menu
 
@@ -28,5 +24,3 @@ The Help menu (Map window, top right) provides:
 | **Feature Request** | Suggest features or functionality |
 | **Contact Us** | Message the AGN/Lithodat development team directly |
 | **Developer Documentation** | EarthBank's REST API, for programmatic data inflow and outflow. Full API docs live in a separate repository — see [API Access](../04_api-access/README.md) |
-
-[SCREENSHOT: Help menu, expanded]

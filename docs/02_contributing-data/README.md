@@ -11,6 +11,3 @@ To upload anything, first upgrade to a Data Contributor account — see [Registr
 - **[(U-Th)/He data](uth-he-data.md)**
 - **[Fission track data](fission-track-data.md)**
 - **[Thermal history data](thermal-history-data.md)**
-
-!!! note "Screenshots pending"
-    Text content is migrated and rebranded; screenshots are marked `[SCREENSHOT: ...]` pending fresh captures from the live platform.

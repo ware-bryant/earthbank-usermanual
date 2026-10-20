@@ -31,8 +31,6 @@ Same pattern as elsewhere: **More** links collaborators/publications; **Files** 
 
 Once complete, return to the Fission Track Datapoint tab and save.
 
-[SCREENSHOT: Fission Track Datapoint tabs]
-
 ## Excel Wizard (bulk upload)
 
 Download the blank `.XLSX` template from the bottom of the Fission Track window.

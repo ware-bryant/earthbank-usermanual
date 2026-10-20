@@ -14,8 +14,6 @@ Available either while creating/uploading a sample, or later, via the sample's *
 | Namespace | Set for the whole platform via the minting DataCite member (Lithodat) |
 | Proposed IGSN ID | Auto-suggested; you can instead specify your own 6–12 character string of capital letters and numbers (no spaces) — but auto-generation is recommended |
 
-[SCREENSHOT: Minting IGSNs pop-up]
-
 ## Minting IGSNs for multiple samples
 
 1. Open **Data**, select **Samples**.

@@ -8,8 +8,6 @@ Sample metadata can be added one sample at a time, or in bulk via an Excel templ
 2. Enter the **Sample Name**, choose the **Data Package** it belongs to (create one first if needed — see [Data Packages](data-packages.md)), and continue.
 3. Work through the tabs below, saving between each.
 
-[SCREENSHOT: new sample creation window, Sample tab]
-
 ### Sample tab
 
 | Field | Notes |
@@ -61,8 +59,6 @@ For uploading many samples at once:
 
 1. Open **Data**, select **Samples**, scroll to the bottom of the page, and download the **Sample metadata Excel template** from the drag-and-drop box.
 2. Fill it in (see below), then drag it back into that same box (or click to browse).
-
-[SCREENSHOT: Sample metadata drag-and-drop upload box]
 
 The template has three sheets:
 

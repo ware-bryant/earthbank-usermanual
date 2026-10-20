@@ -47,7 +47,5 @@ Several templates are available depending on acquisition method — download the
 4. A summary lists each uploaded table (U-Pb datapoints, spot data, age groups). Open each in turn, review/fix any flagged errors or warnings, and confirm — repeat until every table shows a green check and "Successfully Imported".
 5. Click the final **Upload Batch** button to finalise.
 
-[SCREENSHOT: table-by-table import review with green checkmarks]
-
 !!! warning
     Data isn't live until **Upload Batch** is pressed.

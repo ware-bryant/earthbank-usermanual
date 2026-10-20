@@ -32,8 +32,6 @@ Click **+ New** (within the relevant tab) to add a single-grain or multi-grain a
 
 Once done, return to the Datapoint tab and save — the new data appears in the (U-Th)/He list and on the Map window.
 
-[SCREENSHOT: (U-Th)/He datapoint creation, Datapoint tab]
-
 ## Excel Wizard (bulk upload)
 
 Best for datasets with multiple samples and multiple aliquots each. At the bottom of the (U-Th)/He window, choose the **Excel Wizard** or **.CSV uploader** option (Excel Wizard recommended) and download the blank `.XLSX` template.

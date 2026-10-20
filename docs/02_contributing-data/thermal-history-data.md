@@ -81,7 +81,5 @@ The remaining sheets work as in the single-sample template, except **tT Path** a
 3. Choose the destination Data Package, click **Next** (or **Cancel** to edit the file directly).
 4. Step through the wizard's 3 validation steps, then click **Upload Batch** to finalise.
 
-[SCREENSHOT: Thermal history bulk upload validation steps]
-
 !!! warning
     Data isn't live until **Upload Batch** is pressed.

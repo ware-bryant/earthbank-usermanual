@@ -47,7 +47,5 @@ Below a known numerical detection limit: prefix the value with `<` (e.g. `<0.01`
 4. Once every window is clear, click **Upload**.
 5. Click the final confirmation button to finalise the import.
 
-[SCREENSHOT: Excel Wizard batch validation table with errors/warnings]
-
 !!! warning
     Data isn't live until you click the final **Upload Batch** button.

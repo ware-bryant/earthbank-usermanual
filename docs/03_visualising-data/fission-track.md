@@ -7,8 +7,6 @@ The map colours sample locations by data type by default. Colour samples instead
 
 Hovering a sample shows its name, rock type, elevation, central age and age error, MTL and standard deviation, and technique.
 
-[SCREENSHOT: Fission Track layer active, colour bar set to Track Length]
-
 ## Sample detail
 
 Clicking a sample opens a pop-up with detailed sample and Fission Track information, expandable into **Sample Data** and **Analytical Data** views. Where multiple samples share a locality, each has its own Sample Data / Analytical Data pair to select. The Analytical Data view includes plots such as a radial plot coloured by uranium concentration.
@@ -20,7 +18,5 @@ Use the polygon select tool (left toolbar) to draw around samples of interest â€
 Switch between sample metadata and Fission Track dashboards via the dropdown at the top left. Each dashboard supports up to eight plot tiles, each independently configurable (data type, axis size, point colour) and exportable.
 
 Use the multi-select tool to compare populations across geographic areas â€” for example, comparing Boomerang plots (age vs. MTL) across regions of Australia's passive continental margin.
-
-[SCREENSHOT: multi-region Boomerang plot comparison]
 
 Combine with the [Paleo Reconstruction and Contour Data tools](../01_finding-and-viewing-data/map-window.md#toolbar-tools) for further interpretation.

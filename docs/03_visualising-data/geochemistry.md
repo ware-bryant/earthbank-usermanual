@@ -6,8 +6,6 @@ Geochemistry data is visualised directly in the Map window.
 2. Filter by *Location Type*, *Rock Type*, *Analysis Scale*, and *Mineral* as needed.
 3. Use the **Oxide** and **Element** filters to filter by concentration via sliders, and colour samples by a chosen oxide/element using the dropdown at the top of the panel. Samples outside the selected range are hidden by default — enable **show out-of-range** to display them as empty circles instead.
 
-[SCREENSHOT: Geochemistry Analytical Layer active, Oxide filter panel]
-
 ## Interpolation maps
 
 Under **Tools**, the interpolation tool lets you select an area (via the area select tool) and generate an interpolated concentration map for a chosen oxide or element across that area.
@@ -19,5 +17,3 @@ Under **Tools**, the interpolation tool lets you select an area (via the area se
 3. Open **Geochemistry** from the plotting dropdown to launch the plotting window, with samples coloured by population.
 4. Choose how many plot tiles to show, and set each tile's plot type and axes via its dropdowns.
 5. Export any tile via its export button, choosing a file format.
-
-[SCREENSHOT: multi-sample geochemistry plotting window with population colouring]

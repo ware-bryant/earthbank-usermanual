@@ -25,10 +25,6 @@ The account menu (top right of the **Map window**) is the access point for:
 - Changing your EarthBank login password
 - Logging out of the platform
 
-[SCREENSHOT: account menu, expanded, showing the options above]
-
 ## First-time walkthrough
 
 The first time you log in after registering, a pop-up in the **Map window** highlights featured data collections, useful tools, and short "how to" videos to help you get oriented. It reappears on subsequent logins unless you uncheck the box in its bottom-right corner. You can reopen it at any time from next to the EarthBank logo in the title bar.
-
-[SCREENSHOT: first-time walkthrough pop-up in the Map window]

@@ -2,8 +2,6 @@
 
 The Data window is the hub for browsing, filtering, and downloading samples and their associated data. Open it via the tab at the top right of the Map window. You can also upload data from here — see [Contributing Data](../02_contributing-data/README.md).
 
-[SCREENSHOT: Data window landing page with left-hand navigation menu]
-
 ## Data landing page
 
 The landing page combines a main content area (defaulting to **Start** for new users, or **Data Packages** thereafter) with a left-hand menu:
@@ -16,5 +14,3 @@ The landing page combines a main content area (defaulting to **Start** for new u
 | **Analytical Data** | Geochemical/geochronological data for individual samples, browsable by data type |
 | **Meta Data** | *(This section was still a placeholder in the source manual — to fill in once confirmed with the team)* |
 | **Shared Data** | Cross-sample reference data: People, Literature, Funding, Archives, Reference Material, Rocks/Minerals, Labs, and Machines/Instruments |
-
-[SCREENSHOT: Data Packages list view, distribution mode]

@@ -6,11 +6,12 @@ This is the end-user counterpart to [`io.lithosurfer.userdoc`](https://github.co
 
 ## Status
 
-All text content from the source "AusGeochem User Guide 2.0_Sep24_Review Copy.docx" has been migrated: rebranded (AusGeochem → EarthBank; "AuScope Geochemistry Network (AGN)" retained), reorganised into the task-based structure below, and lightly rewritten so UI elements are named in the text rather than relying only on a screenshot.
+All text content from the source "AusGeochem User Guide 2.0_Sep24_Review Copy.docx" has been migrated: rebranded (AusGeochem → EarthBank; "AuScope Geochemistry Network (AGN)" retained), reorganised into the task-based structure below, and lightly rewritten so UI elements are named in the text.
+
+**No screenshots, by design (for now).** The manual is text-only: every UI element is named in bold in the text (e.g. **Add Sample**), which keeps pages accessible and searchable and avoids images going stale as the platform develops. Screenshots may be added later if needed.
 
 **What's not done yet:**
 
-- **Screenshots.** Every place a screenshot belongs is marked `[SCREENSHOT: ...]` describing what to capture. None have been taken yet — the source manual's screenshots (dated ~April 2024) pre-date the rebrand and aren't reusable.
 - **Currency check.** Content hasn't been verified against the live platform, so some described workflows may have changed. Flag anything that's drifted as you find it.
 - **Front-page introduction.** `docs/index.md` has a placeholder intro — a proper one is coming once the team has a new introduction paragraph ready.
 - **Data window "Meta Data" section** was an unfinished placeholder in the source manual (`docs/01_finding-and-viewing-data/data-window.md`) — needs real content from the team.

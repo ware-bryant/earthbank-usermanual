@@ -15,8 +15,6 @@ Clicking an individual sample (in geochronology mode) opens a pop-up with:
 - A geochronology data summary table
 - Plots for that sample, scalable and exportable (JPEG, PNG, SVG, PDF) via the tile's controls, including: Wetherill plots, Tera-Wasserburg plots, weighted mean of the preferred isotopic date, histograms (preferred date, Th/U, U concentration), kernel density estimates, bivariate plots (isotopic ratios, dates, major/trace concentrations, Th/U), and radial plots
 
-[SCREENSHOT: individual sample pop-up with Wetherill/Tera-Wasserburg plots]
-
 ## Multi-sample selection
 
 1. Select samples using **Select Area** — rectangle, polygon, or multi-select — to open the selections tab.
